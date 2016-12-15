@@ -1,6 +1,6 @@
 <template>
   <div>
     <hr/>
-    Server monitoring
+    All servers are managed here
   </div>
 </template>
